@@ -1,4 +1,5 @@
-main*
+main
+main.exe
 Makefile
 CMakeCache.txt
 cmake_install.cmake
