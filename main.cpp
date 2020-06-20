@@ -6,4 +6,5 @@ auto main() -> int {
     cout << "Latest contributor "
             "punarvsu"
             "\n";
+    cout<<"bahan ke laudo";
 }
